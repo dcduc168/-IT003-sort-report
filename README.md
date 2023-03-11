@@ -22,6 +22,7 @@
 - [Hàm sort của thư viện chuẩn STL (`std::sort`)](#hàm-sort-của-thư-viện-chuẩn-stl-stdsort)
     - [Code cài đặt](#code-cài-đặt-3)
 - [Kết quả thử nghiệm](#kết-quả-thử-nghiệm)
+    - [Bảng](#bảng)
     - [Biểu đồ](#biểu-đồ)
 
 
@@ -237,6 +238,7 @@ std::sort(a, a + n);
 > Chạy trên máy cá nhân (AMD Ryzen 5 6600H) <br>
 > Đơn vị tính thời gian mili giây (ms) <br>
 
+#### Bảng
 | Test |Quick sort|Merge sort|Heap sort|`std::sort`|
 |:----:|:--------:|:--------:|:-------:|:---------:|
 |1     |5830      |5283      |6069     |5637       |
