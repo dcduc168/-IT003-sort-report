@@ -1,5 +1,4 @@
-﻿# IT003_sortAlgorithm
-
+﻿# IT003_Sort
 # Báo cáo thực nghiệm các thuật toán sắp xếp
 
 > **Họ và tên**: Đinh Công Đức <br>
