@@ -1,4 +1,4 @@
-﻿# IT003_Sort
+﻿# [IT003] sort-report
 # Báo cáo thực nghiệm các thuật toán sắp xếp
 
 > **Họ và tên**: Đinh Công Đức <br>
